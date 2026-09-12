@@ -1,0 +1,6 @@
+{
+  "name": "AI Lua/Luau Deobfuscator",
+  "description": "Mobile-friendly AI-powered Lua and Luau code analysis, static inspection, and deobfuscation laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
